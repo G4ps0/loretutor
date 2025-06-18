@@ -30,24 +30,55 @@ body {
     padding: 0 15px;
 }
 
-/* Postazione Section */
-.postazione-section {
-    padding: 20px 0;
-    background-color: #fff;
+/* About Section with Postazione */
+.about-content {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 40px;
+    margin-top: 30px;
 }
 
-.postazione-section .container {
-    max-width: 1200px;
-    margin: 0 auto;
-    padding: 0 20px;
+.about-text {
+    flex: 1;
+    min-width: 300px;
+}
+
+.postazione-container {
+    flex: 1;
+    min-width: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .postazione-img {
-    width: 100%;
+    max-width: 100%;
     height: auto;
     border-radius: 8px;
     box-shadow: var(--shadow);
-    display: block;
+    transition: transform 0.3s ease;
+}
+
+.postazione-img:hover {
+    transform: scale(1.02);
+}
+
+/* Mobile responsiveness */
+@media (max-width: 768px) {
+    .about-content {
+        flex-direction: column;
+        gap: 20px;
+    }
+    
+    .about-text, .postazione-container {
+        min-width: 100%;
+    }
+    
+    .postazione-img {
+        max-width: 100%;
+        height: auto;
+    }
 }
 
 /* Header Styles */
