@@ -30,6 +30,26 @@ body {
     padding: 0 15px;
 }
 
+/* Postazione Section */
+.postazione-section {
+    padding: 20px 0;
+    background-color: #fff;
+}
+
+.postazione-section .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+.postazione-img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    box-shadow: var(--shadow);
+    display: block;
+}
+
 /* Header Styles */
 header {
     background: linear-gradient(135deg, var(--primary-color), var(--secondary-color));
@@ -773,6 +793,13 @@ header h1 {
 .whatsapp-link:hover {
     color: #128C7E !important;
     text-decoration: none !important;
+}
+
+/* Contact */
+#contact {
+    text-align: center;
+    padding: 60px 0 40px;
+    margin-top: 20px;
 }
 
 /* Footer */
