@@ -1,0 +1,16 @@
+COME AGGIUNGERE LE FOTO DELLE LEZIONI:
+
+1. Aggiungi le immagini in questa cartella
+2. Rinominale in modo descrittivo, ad esempio:
+   - matematica-limiti.jpg
+   - programmazione-cpp.jpg
+   - algebra-lineare.jpg
+
+Le immagini verranno mostrate nella sezione "Esempi di Lezioni" del tuo sito.
+
+Consigli:
+- Usa formati JPG o PNG
+- Dimensioni consigliate: larghezza minima 800px
+- Mantieni un buon rapporto qualità/dimensione
+
+Per modificare i testi delle didascalie, apri il file index.html e cerca la sezione "Esempi di Lezioni"

@@ -1,0 +1,16 @@
+COME AGGIUNGERE LE TUE REFERENZE:
+
+1. Aggiungi le tue immagini in questa cartella
+2. Rinominale in ordine numerico: 1.jpg, 2.jpg, 3.jpg, ecc.
+3. Assicurati che le immagini abbiano una buona qualità
+4. Le dimensioni consigliate sono almeno 600x600 pixel
+
+Le immagini verranno mostrate in ordine numerico nella sezione "Referenze e Successi" del tuo sito.
+
+Suggerimenti per le immagini:
+- Usa formati JPG o PNG
+- Mantieni un rapporto 1:1 (quadrato) per i migliori risultati
+- Assicurati di avere i diritti per utilizzare le immagini
+- Se mostri lavori di studenti, assicurati di avere la loro autorizzazione
+
+Per modificare i testi delle didascalie, apri il file index.html e cerca la sezione "Referenze e Successi"
